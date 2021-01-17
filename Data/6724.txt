@@ -1,0 +1,40 @@
+Zucchini Bread Recipe
+
+Ingredients
+1. 3 cups all-purpose flour
+2. 3 eggs
+3. 2 cups white sugar
+4. 1 cup vegetable oil
+5. 2 cups grated zucchini
+6. 1 cup semisweet chocolate chips
+7. 1 teaspoon ground cinnamon
+8. 1 teaspoon baking soda
+9. ¼ teaspoon baking powder
+10. ½ cup sour cream
+
+Steps
+1. Preheat oven to 350 degrees F (175 degrees C). Grease two 9x5-inch loaf pans.
+2. Beat together eggs, sugar, and oil. Blend in the grated zucchini, and then the sour cream. Mix in the flour, baking powder, soda, and cinnamon. Stir in chocolate chips or raisins (see Cook's Note). Pour batter into prepared pans.
+3. Bake in preheated oven until a tester inserted in the center of each loaf comes out clean, about 80 minutes. Cool on wire rack.
+
+Categories
+Breakfast and Brunch Recipes
+Breakfast Bread Recipes
+
+Nutrition
+calories: 256.9 calories
+carbohydrateContent: 33.7 g
+cholesterolContent: 25.4 mg
+fatContent: 13.1 g
+fiberContent: 1 g
+proteinContent: 3 g
+saturatedFatContent: 3.3 g
+servingSize: null
+sodiumContent: 70.8 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 4.511299435028248
+Count: 354

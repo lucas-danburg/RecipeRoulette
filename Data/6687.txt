@@ -1,0 +1,37 @@
+Banana Bread Recipe
+
+Ingredients
+1. 1 ½ cups all-purpose flour
+2. 1 teaspoon baking soda
+3. ½ teaspoon salt
+4. 1 cup white sugar
+5. 2 eggs, beaten
+6. ¼ cup butter, melted
+7. 3 bananas, mashed
+
+Steps
+1. Grease and flour two 7x3 inch loaf pans.  Preheat oven to 350 degrees F (175 degrees C).
+2. In one bowl, whisk together flour, soda, salt, and sugar.  Mix in slightly beaten eggs, melted butter, and mashed bananas.  Stir in nuts if desired.  Pour into prepared pans.
+3. Bake at 350 degrees F (175 degrees C) for 1 hour, or until a wooden toothpick inserted in the center comes out clean.
+
+Categories
+Breakfast and Brunch Recipes
+Breakfast Bread Recipes
+
+Nutrition
+calories: 145.1 calories
+carbohydrateContent: 26.5 g
+cholesterolContent: 30.9 mg
+fatContent: 3.7 g
+fiberContent: 0.9 g
+proteinContent: 2.3 g
+saturatedFatContent: 2.1 g
+servingSize: null
+sodiumContent: 181 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 4.6976463488231746
+Count: 1657

@@ -1,0 +1,38 @@
+Red Pepper Biscuits Recipe
+
+Ingredients
+1. 2 ¾ cups baking mix
+2. ½ teaspoon crushed red pepper flakes
+3. ¾ teaspoon garlic powder
+4. 1 cup milk
+5. 1 cup shredded Cheddar cheese
+6. 2 tablespoons butter, melted
+
+Steps
+1. Preheat oven to 425 degrees F (220 degrees C).
+2. Combine biscuit mix, pepper, and 1/2 teaspoon garlic powder in a large bowl.  With a fork, stir in milk and cheese until mixture forms a soft dough.  Drop by 1/4 cupfuls onto greased cookie sheet.
+3. Combine butter and remaining 1/4 teaspoon garlic powder, and brush on top of biscuits.
+4. Bake for 10 to 12 minutes, or until golden brown.
+
+Categories
+Bread
+Quick Bread Recipes
+Biscuits
+
+Nutrition
+calories: 158.2 calories
+carbohydrateContent: 21.2 g
+cholesterolContent: 16.6 mg
+fatContent: 5.8 g
+fiberContent: 0.1 g
+proteinContent: 5.4 g
+saturatedFatContent: 3.5 g
+servingSize: null
+sodiumContent: 609.6 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 4.2926829268292686
+Count: 41

@@ -1,0 +1,43 @@
+Banana Oat Muffins Recipe
+
+Ingredients
+1. 1 ½ cups unbleached all-purpose flour
+2. 1 cup rolled oats
+3. ½ cup white sugar
+4. 2 teaspoons baking powder
+5. 1 teaspoon baking soda
+6. ½ teaspoon salt
+7. 1 egg
+8. ¾ cup milk
+9. ⅓ cup vegetable oil
+10. ½ teaspoon vanilla extract
+11. 1 cup mashed bananas
+
+Steps
+1. Combine flour, oats, sugar, baking powder, soda, and salt.
+2. In a large bowl, beat the egg lightly.  Stir in the milk, oil, and vanilla.  Add the mashed banana, and combine thoroughly.  Stir the flour mixture into the banana mixture until just combined.  Line a 12-cup muffin tin with paper bake cups, and divide the batter among them.
+3. Bake at 400 degrees F (205 degrees C) for 18 to 20 minutes.
+
+Categories
+Bread
+Quick Bread Recipes
+Muffin Recipes
+Banana Muffin Recipes
+
+Nutrition
+calories: 199.9 calories
+carbohydrateContent: 30.1 g
+cholesterolContent: 16.7 mg
+fatContent: 7.5 g
+fiberContent: 1.6 g
+proteinContent: 3.7 g
+saturatedFatContent: 1.2 g
+servingSize: null
+sodiumContent: 296 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 4.491760052735662
+Count: 1517

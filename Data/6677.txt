@@ -1,0 +1,35 @@
+Sourdough Starter I Recipe
+
+Ingredients
+1. 3 tablespoons instant mashed potato flakes
+2. 3 tablespoons white sugar
+3. 1 cup warm water
+4. 2 ¼ teaspoons active dry yeast
+
+Steps
+1. Combine instant potatoes, sugar, water, and yeast in a covered container.  Let the starter sit on a counter for 5 days, stirring daily with a wooden spoon.
+2. On the morning of the fifth day, feed the starter with 3 tablespoons instant potatoes, 3 tablespoons sugar, and 1 cup warm water.  In the evening, take out 1 cup of the starter to use in a sourdough recipe.  Refrigerate the remaining starter.
+3. Every five days, feed the starter 3 tablespoons instant potatoes, 3 tablespoons sugar and 1 cup water. If starter is to be used in a recipe, let the fed starter rest at room temperature 6 hours before use. If starter is not being used in a recipe, keep refrigerated and discard 1 cup of starter after each feeding.
+
+Categories
+Bread
+Yeast Bread Recipes
+Sourdough Bread Recipes
+
+Nutrition
+calories: 50.6 calories
+carbohydrateContent: 11.9 g
+cholesterolContent: null
+fatContent: 0.1 g
+fiberContent: 0.6 g
+proteinContent: 1 g
+saturatedFatContent: null
+servingSize: null
+sodiumContent: 3.3 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 4.647540983606557
+Count: 122
