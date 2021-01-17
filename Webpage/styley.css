@@ -1,0 +1,120 @@
+body {
+  background-color: #0D0221;
+  padding-left: 1.2%;
+  padding-right: 1.2%;
+  /*background-image: url("thatbackgroundtho.jpg");*/
+}
+
+h1 {
+  color: #fcecc9;
+  text-align: center;
+  font-size: 28px;
+  font-family: georgia;
+    margin-left: 50%;
+}
+
+p {
+  font-family: georgia;
+  font-size: 14px;
+  text-align: left;
+}
+
+button{
+  background-color: #7B9EA8;
+  font-color: #0D0221;
+  border-radius: 10px;
+  font-family: georgia;
+  padding-right: .6%;
+  padding-left: .6%;
+  padding-top:.2%;
+  padding-bottom: .2%;
+  margin-top: 2%;
+
+}
+
+button:hover{
+    background-color: #4d6b74;
+    color: #0D0221;
+    border-color: #7B9EA8;
+}
+
+input[type=text], select {
+  width: 33%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 1%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  display: inline-block;
+  border: 1px solid #0D0221;
+  border-radius: 6px;
+  box-sizing: border-box;
+}
+
+input[type=text]:hover {
+  background-color: #dae4e6;
+}
+
+.welcometext{
+  width: 80%;
+  height:20%;
+  vertical-align: top;
+}
+
+
+.midback{
+  padding-top: 2%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 32%;
+  background-color: #095256;
+  height: 80%;
+}
+
+.recipetext{
+  font-color: #0D0221;
+
+}
+
+.toptext{
+  color: #fcecc9;
+  width: 50%;
+  text-align: left;
+  margin-left: 50%;
+}
+
+.recipebox{
+  background-color: #fcecc9;
+  padding-top: .5%;
+  padding-left: .5%;
+  padding-top: .5%;
+  padding-bottom: 20%;
+  margin-top: 2%;
+  width: 200%;
+}
+
+.ingredientlist {
+  list-style-type: upper-alpha;
+}
+
+.footer{
+
+  color: #0D0221;
+  background-color: #fcecc9;
+  vertical-align: bottom;
+
+}
+
+.bottomtext{
+  padding-left: .5%;
+  padding-right: 2%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  text-align: right;
+  vertical-align: bottom;
+
+}
+
+.mainimage{
+  float: left;
+}

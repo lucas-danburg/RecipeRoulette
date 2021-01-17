@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<link rel="stylesheet" href="css/styley.css">
+<script src="js/realcode.js"></script>
+<script src="js/dictlist.js"></script>
+<script>
+$(document).ready(function() {
+  $('header').hide().slideDown(3000);
+});
+</script>
+<title>Recipe Roulette</title>
+</head>
+
+<body>
+
+   <img src = "img/header.jpg" width = 100%>
+   <div class = "midback">
+
+     <span class = "mainimage">
+
+               <div id = "thisone" class = "recipebox" class = "recipetext">
+                 <h3>Ingredients</h3>
+                 <p class = "ingredientlist" id = "ingredients">
+                 </p>
+                 <h3>Procedure</h3>
+                 <p class = "recipetext">
+                   Theoretically, this is where our recipe would be :)
+                 </p>
+               </div>
+          <img src = "img/realcook.jpg" width = 100% id = "recimage">
+     </span>
+   <span  class = "welcometext">
+     <div class = "whoknows">
+     <h1>Welcome to Recipe Roulette!</h1>
+     <p class = "toptext"> Hello, and welcome to recipe roulette, a program that relies on the not-so-everknowing wisdom of computers to create a recipe. Our program analyzed trends of 1200+ recipes, and with an algorithm we created makes an entirely new recipe just for you! So buckle up, enter three ingredients, and test your luck at recipe roulette today.
+       <br>
+       <br />
+       <input type="text" placeholder="Enter ingredient one" id = "ing1"/>
+       <br />
+       <input type="text" placeholder="Enter ingredient two" id = "ing2"/>
+       <br />
+       <input type = "text" placeholder="Enter ingredient three" id = "ing3" />
+       <br />
+       <button onclick="recipeMagic()">Generate recipe!</button>
+     </p>
+  </div>
+  </span>
+
+  </div>
+  <div class = "footer">
+    <p class = "bottomtext">
+      Created by Lucas Danburg and Leah Pascarelli
+    </p>
+
+  </div>
+
+
+</body>
