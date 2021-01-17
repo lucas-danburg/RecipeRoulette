@@ -1,0 +1,38 @@
+Cheddar Biscuits Recipe
+
+Ingredients
+1. 2 cups biscuit baking mix
+2. 1 cup shredded Cheddar cheese
+3. ⅔ cup milk
+4. ½ teaspoon garlic powder
+5. 2 tablespoons margarine, melted
+6. 2 teaspoons dried parsley
+7. 1 teaspoon garlic salt
+
+Steps
+1. Preheat oven to 400 degrees F (205 degrees C). Grease a cookie sheet, or line with parchment paper.
+2. In a large bowl, combine baking mix, Cheddar cheese, and garlic powder. Stir in milk. Drop batter by heaping tablespoonfuls onto prepared cookie sheet.
+3. Bake in preheated oven for 10 minutes. Brush biscuits with melted margarine, and sprinkle with parsley and garlic salt. Bake for 5 more minutes, or until lightly browned on the bottom.
+
+Categories
+Bread
+Quick Bread Recipes
+Biscuits
+
+Nutrition
+calories: 214.4 calories
+carbohydrateContent: 19.9 g
+cholesterolContent: 16.5 mg
+fatContent: 12.3 g
+fiberContent: 0.6 g
+proteinContent: 6.4 g
+saturatedFatContent: 4.9 g
+servingSize: null
+sodiumContent: 732 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 4.640625
+Count: 640

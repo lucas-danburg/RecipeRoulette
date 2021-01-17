@@ -1,0 +1,40 @@
+Cardamom Bread Recipe
+
+Ingredients
+1. 1 egg
+2. ¼ cup water
+3. ½ cup evaporated skim milk
+4. 1 teaspoon salt
+5. 1 ½ teaspoons canola oil
+6. 3 cups bread flour
+7. 1 teaspoon ground cardamom
+8. 3 tablespoons white sugar
+9. 1 teaspoon active dry yeast
+
+Steps
+1. Place all ingredients into bread machine in the proper order for your machine.  Use the Dough cycle.
+2. At end of the Dough cycle, remove dough from the machine.  Place on a lightly floured board, and let it rest, covered, for about 10 minutes.
+3. Shape dough into a loaf, and place it in a 9 x 5 inch greased bread pan.  Cover, and let rise for 45 minutes.
+4. Just before baking, brush the top of the dough with a little milk, and slash a line down the center.  Bake at 375 degrees F (190 degrees C) for 30 to 35 minutes.  Remove from pan, and cool on a wire rack.
+
+Categories
+Breakfast and Brunch Recipes
+Breakfast Bread Recipes
+
+Nutrition
+calories: 156.7 calories
+carbohydrateContent: 29.5 g
+cholesterolContent: 15.9 mg
+fatContent: 1.6 g
+fiberContent: 0.9 g
+proteinContent: 5.6 g
+saturatedFatContent: 0.3 g
+servingSize: null
+sodiumContent: 212.8 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 3.8947368421052633
+Count: 19

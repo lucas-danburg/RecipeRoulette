@@ -1,0 +1,37 @@
+Beer Biscuits Recipe
+
+Ingredients
+1. 2 cups all-purpose flour
+2. 3 teaspoons baking powder
+3. 1 teaspoon salt
+4. ¼ cup shortening
+5. ¾ cup beer
+
+Steps
+1. Preheat oven to 450 degrees F (230 degrees C).
+2. Sift together flour, baking powder, and salt.  Cut in shortening until it has cornmeal consistency.  Stir in beer, and knead lightly.
+3. Roll dough out to 1/2 inch thickness.  Cut with biscuit cutter.
+4. Bake 10 to 12 minutes, or until golden brown.
+
+Categories
+Bread
+Quick Bread Recipes
+Biscuits
+
+Nutrition
+calories: 121 calories
+carbohydrateContent: 16.8 g
+cholesterolContent: null
+fatContent: 4.5 g
+fiberContent: 0.6 g
+proteinContent: 2.2 g
+saturatedFatContent: 1.1 g
+servingSize: null
+sodiumContent: 316.7 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 4.0476190476190474
+Count: 126

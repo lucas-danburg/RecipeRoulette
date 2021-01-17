@@ -1,0 +1,42 @@
+Bran Muffins I Recipe
+
+Ingredients
+1. 2 cups raisin bran cereal
+2. 4 cups whole bran cereal
+3. 2 cups boiling water
+4. 1 cup shortening
+5. 3 cups white sugar
+6. 4 eggs
+7. 4 cups buttermilk
+8. 5 cups all-purpose flour
+9. 5 teaspoons baking soda
+10. 1 ½ teaspoons salt
+
+Steps
+1. Mix cereal and boiling water together in a metal bowl, and allow to cool.
+2. Cream shortening, sugar, and eggs in a large bowl.  Add buttermilk and cooled cereal mixture. Combine flour, baking soda, and salt; stir into the creamed mixture until flour is moistened.  Batter should be lumpy.  Put batter into a one gallon wide mouth jar.  When using mix, use a ladle to get batter out of the jar; don't mix or stir.
+3. When ready to use, spoon batter into muffin tins.  Bake at 375 degrees F (195 degrees C) for approximately 15 minutes.
+
+Categories
+Bread
+Quick Bread Recipes
+Muffin Recipes
+Bran Muffin Recipes
+
+Nutrition
+calories: 217.6 calories
+carbohydrateContent: 36.4 g
+cholesterolContent: 21.8 mg
+fatContent: 6.8 g
+fiberContent: 1.5 g
+proteinContent: 4 g
+saturatedFatContent: 1.8 g
+servingSize: null
+sodiumContent: 352 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 4.571428571428571
+Count: 63

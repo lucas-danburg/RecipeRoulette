@@ -1,0 +1,39 @@
+Mother&#x27;s Banana Bread Recipe
+
+Ingredients
+1. 1 ¾ cups all-purpose flour
+2. 2 teaspoons baking powder
+3. ¼ teaspoon baking soda
+4. ½ teaspoon salt
+5. ⅔ cup white sugar
+6. ⅓ cup butter, softened
+7. 2 eggs
+8. 1 cup mashed banana
+9. ½ cup chopped walnuts
+
+Steps
+1. Grease an 8x4 inch loaf pan.  Preheat oven to 350 degrees F (175 degrees C).
+2. In a large mixing bowl, sift together flour, baking powder, baking soda, salt, and sugar.  Add butter, eggs, nuts, and mashed banana. Beat until well blended.
+3. Pour batter into prepared pan and bake about 1 hour, or until a toothpick inserted in the center of the loaf comes out clean.
+
+Categories
+Breakfast and Brunch Recipes
+Breakfast Bread Recipes
+
+Nutrition
+calories: 215.5 calories
+carbohydrateContent: 30.3 g
+cholesterolContent: 44.6 mg
+fatContent: 9.4 g
+fiberContent: 1.3 g
+proteinContent: 3.9 g
+saturatedFatContent: 3.8 g
+servingSize: null
+sodiumContent: 253 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 4.4573378839590445
+Count: 293

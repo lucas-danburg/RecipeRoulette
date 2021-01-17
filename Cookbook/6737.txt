@@ -1,0 +1,43 @@
+Mall Pretzels
+
+Ingredients
+1. 1 (.25 ounce) package active dry yeast
+2. 2 tablespoons brown sugar
+3. 1 ⅛ teaspoons salt
+4. 1 ½ cups warm water (110 degrees F/45 degrees C)
+5. 3 cups all-purpose flour
+6. 1 cup bread flour
+7. 2 cups warm water (110 degrees F/45 degrees C)
+8. 2 tablespoons baking soda
+9. 2 tablespoons butter, melted
+10. 2 tablespoons coarse kosher salt
+
+Steps
+1. In a large mixing bowl, dissolve the yeast, brown sugar and salt in 1 1/2 cups warm water. Stir in flour, and knead dough on a floured surface until smooth and elastic, about 8 minutes. Place in a greased bowl, and turn to coat the surface.  Cover, and let rise for one hour.
+2. Combine 2 cups warm water and baking soda in an 8 inch square pan. Line 6 baking sheets with parchment paper.
+3. After dough has risen, cut into 12 pieces. Roll each piece into a 3 foot rope, pencil thin or thinner. Twist into a pretzel shape, and dip into the baking soda solution.  Place onto parchment covered baking sheets, and let rise 15 to 20 minutes.
+4. Preheat an oven to 450 degrees F (230 degrees C).
+5. Bake in the preheated oven for 8 to 10 minutes, or until golden brown. Brush with melted butter, and sprinkle with coarse salt, garlic salt or cinnamon sugar.
+
+Categories
+Bread
+Yeast Bread Recipes
+Pretzel Recipes
+
+Nutrition
+calories: 182.2 calories
+carbohydrateContent: 34.6 g
+cholesterolContent: 5.1 mg
+fatContent: 2.4 g
+fiberContent: 1.2 g
+proteinContent: 4.8 g
+saturatedFatContent: 1.3 g
+servingSize: null
+sodiumContent: 1782.8 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 4.630154639175258
+Count: 1552

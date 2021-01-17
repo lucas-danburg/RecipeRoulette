@@ -1,0 +1,38 @@
+Buttermilk Bread I Recipe
+
+Ingredients
+1. 1 ½ cups buttermilk
+2. 1 ½ tablespoons margarine
+3. 2 tablespoons white sugar
+4. 1 teaspoon salt
+5. 3 cups bread flour
+6. 1 ⅓ cups whole wheat flour
+7. 2 ¼ teaspoons active dry yeast
+
+Steps
+1. Place buttermilk, butter or margarine, sugar, salt, flour, whole wheat flour, and yeast into pan of bread machine.
+2. Bake on White Bread setting.  Cool on wire racks before slicing.
+
+Categories
+Bread
+Yeast Bread Recipes
+Whole Grain Bread Recipes
+Wheat Bread
+
+Nutrition
+calories: 79.6 calories
+carbohydrateContent: 13.5 g
+cholesterolContent: 1.2 mg
+fatContent: 1.9 g
+fiberContent: 1.8 g
+proteinContent: 3.1 g
+saturatedFatContent: 0.4 g
+servingSize: null
+sodiumContent: 242.5 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 3.8222222222222224
+Count: 45

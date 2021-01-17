@@ -1,0 +1,39 @@
+Poppy Seed Bread I Recipe
+
+Ingredients
+1. 1 teaspoon salt
+2. ¼ cup poppy seeds
+3. 3 cups all-purpose flour
+4. 4 eggs
+5. 1 ½ cups vegetable oil
+6. 2 cups white sugar
+7. 1 teaspoon baking soda
+8. 1 teaspoon vanilla extract
+9. 1 cup milk
+
+Steps
+1. Preheat oven to 325 degrees F (165 degrees C).  Grease and flour two 9 x 5 inch loaf pans.
+2. Mix the flour, salt, sugar, and soda in a mixing bowl.  Add vanilla, milk, eggs, and oil.  Beat for five minutes with an electric mixer.   Stir in the poppy seeds.  Pour batter into loaf pans.
+3. Bake for one hour.  Cool on wire racks.
+
+Categories
+Breakfast and Brunch Recipes
+Breakfast Bread Recipes
+
+Nutrition
+calories: 267.9 calories
+carbohydrateContent: 29.5 g
+cholesterolContent: 31.8 mg
+fatContent: 15.6 g
+fiberContent: 0.6 g
+proteinContent: 3.3 g
+saturatedFatContent: 2.3 g
+servingSize: null
+sodiumContent: 165.8 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 4.516129032258065
+Count: 31

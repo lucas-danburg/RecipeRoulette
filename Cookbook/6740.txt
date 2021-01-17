@@ -1,0 +1,36 @@
+Tea Biscuits Recipe
+
+Ingredients
+1. 2 cups all-purpose flour
+2. 4 teaspoons baking powder
+3. 1 teaspoon salt
+4. ½ cup shortening
+5. ¾ cup milk
+
+Steps
+1. Preheat oven to 400 degrees F (205 degrees C).  Grease a baking sheet.
+2. Combine flour, baking powder, and salt.  Cut shortening in until mixture has a fine crumb texture.  Stir in milk with a fork to make a soft dough. Knead 8 to 10 times, and then roll out to a thickness of at least 1/2 inch.  Cut into rounds with a cookie or biscuit cutter.  Place on cookie sheet, and allow to rest for a few minutes.
+3. Bake for 12 to 15 minutes.  Serve warm.
+
+Categories
+Bread
+Quick Bread Recipes
+Biscuits
+
+Nutrition
+calories: 95.9 calories
+carbohydrateContent: 10.2 g
+cholesterolContent: 0.7 mg
+fatContent: 5.4 g
+fiberContent: 0.3 g
+proteinContent: 1.6 g
+saturatedFatContent: 1.4 g
+servingSize: null
+sodiumContent: 217.8 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 4.427293064876958
+Count: 447

@@ -1,0 +1,44 @@
+Oatmeal Bread I Recipe
+
+Ingredients
+1. 1 cup rolled oats
+2. ½ cup molasses
+3. ⅓ cup vegetable oil
+4. 1 teaspoon salt
+5. 1 ½ cups boiling water
+6. 2 tablespoons active dry yeast
+7. ½ cup lukewarm water (100 degrees F/38 degrees C)
+8. 1 cup whole wheat flour
+9. 5 cups bread flour
+10. 2 eggs
+
+Steps
+1. Combine oats, molasses, oil, salt and boiling water. Let cool to about 105 degrees F.
+2. Dissolve the yeast in the warm water and let stand for 5 minutes or until creamy. Stir the yeast into oat mixture and mix well. Add whole wheat flour, 2 cups bread flour, and the eggs. Mix until well combined.
+3. Stir in enough of the remaining flour to make a soft dough. Turn dough out to a floured counter and knead for about 10 minutes. Place the dough in a well-greased bowl and cover with greased plastic wrap. Let the dough rest in the refrigerator overnight.
+4. Preheat oven to 375 degrees F (190 degrees C). Grease 3 regular loaf pans and 4 mini loaf pans.
+5. Transfer the dough onto a floured surface and divide it into 4 pieces. Shape the dough into loaves and place them in the pans, seam-side down. Let rise until doubled, about 90 minutes. Bake in the preheated oven until the loaves are golden brown and sound hollow when tapped, about 30 minutes.
+
+Categories
+Bread
+Yeast Bread Recipes
+Whole Grain Bread Recipes
+Wheat Bread
+
+Nutrition
+calories: 68.4 calories
+carbohydrateContent: 9.1 g
+cholesterolContent: 12.4 mg
+fatContent: 3.1 g
+fiberContent: 0.9 g
+proteinContent: 1.6 g
+saturatedFatContent: 0.5 g
+servingSize: null
+sodiumContent: 85.4 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 4.605263157894737
+Count: 38

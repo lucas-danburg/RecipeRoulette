@@ -1,0 +1,34 @@
+Crispy Cheese Twists Recipe
+
+Ingredients
+1. ½ cup Parmesan cheese
+2. ¾ teaspoon ground black pepper
+3. ½ teaspoon garlic powder
+4. 1 (17.5 ounce) package frozen puff pastry, thawed
+5. 1 egg white
+
+Steps
+1. Combine parmesan cheese, pepper and garlic powder. Unfold pastry sheets onto cutting board.  Brush lightly with egg white; sprinkle each sheet with 1/4 of the cheese mixture.  Lightly press into pastry, turn over; repeat.  Cut each sheet into 12 (1-inch) strips; twist.
+2. Place on ungreased cookie sheet and bake in 350 degrees F (175 degrees C) oven for 15 minutes or until golden brown.
+
+Categories
+Appetizers and Snacks
+Cheese
+
+Nutrition
+calories: 120.7 calories
+carbohydrateContent: 9.4 g
+cholesterolContent: 1.5 mg
+fatContent: 8.3 g
+fiberContent: 0.3 g
+proteinContent: 2.3 g
+saturatedFatContent: 2.3 g
+servingSize: null
+sodiumContent: 78.7 mg
+sugarContent: null
+transFatContent: null
+unsaturatedFatContent: null
+
+Rating
+Value: 4.157894736842105
+Count: 76
